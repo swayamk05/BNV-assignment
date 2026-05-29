@@ -130,4 +130,6 @@ root/
 
 ## Screenshots
 
-Add screenshots of the list, create, edit, and details pages here.
+<img width="1864" height="873" alt="image" src="https://github.com/user-attachments/assets/385e5556-16f4-41da-b8c0-a2314227b21f" />
+<img width="933" height="872" alt="image" src="https://github.com/user-attachments/assets/7d85597e-a7be-4ad8-a098-b55e9bfc9147" />
+
